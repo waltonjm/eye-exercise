@@ -14,3 +14,4 @@ Refer to MDN or Stackoverflow for help to modify the code.
 
 ## Roadmap
 This project is presented as a part of student boot camp portfolio.
+<img src="./eyes-screenshot.png">
